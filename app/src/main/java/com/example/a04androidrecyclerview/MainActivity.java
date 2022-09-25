@@ -74,6 +74,13 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    public void populateLinkedList(LinkedList<String> mWordList) {
+        for (int i = 0; i < 20; i++) {
+            this.mWordList.addLast("Word " + i);
+        }
+    }
+
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
@@ -82,7 +89,18 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_reset) {
+            mWordList.clear();
+            populateLinkedList(mWordList);
+
+            // Get a handle to the RecyclerView.
+            mRecyclerView = findViewById(R.id.recyclerview);
+            // Create an adapter and supply the data to be displayed.
+            mAdapter = new WordListAdapter(this, mWordList);
+            // Connect the adapter with the RecyclerView.
+            mRecyclerView.setAdapter(mAdapter);
+            // Give the RecyclerView a default layout manager.
+            mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
             return true;
         }
 
