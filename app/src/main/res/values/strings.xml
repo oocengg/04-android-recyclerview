@@ -12,103 +12,119 @@
     <string name="title_activity_homework">Homework</string>
 
     <!-- Strings used for Homework -->
-    <string name="moo_shu_name">Easy Moo Shu Pork</string>
-    <string name="moo_shu_description">Super easy version of a delicious dish. Serve over coconut rice</string>
-    <string name="moo_shu_details"><b>Ingredients</b>
+    <string name="nasi_goreng">Nasi Goreng</string>
+    <string name="nasi_goreng_description">Resep nasi goreng enak selalu tepat disajikan untuk makan pagi, siang, ataupun malam.</string>
+    <string name="nasi_goreng_details"><b>Bahan</b>
         \n
-        2 tablespoons soy sauce
+        1 potong paha ayam atas bawah rebus, suwir ayamnya
         \n
-        1 tablespoon sesame oil
+        2 butir telur, kocok lepas
         \n
-        1 tablespoon grated fresh ginger
+        150 gram udang tanpa kulit
         \n
-        1 teaspoon minced garlic
+        5 buah bakso sapi, potong-potong
         \n
-        3/4 pound pork tenderloin, fat trimmed and pork cut into 1/4-inch strips
+        5 buah bakso ikan, potong-potong
         \n
-        2 tablespoons vegetable oil
+        500 gram nasi putih
         \n
-        2 cups shredded napa cabbage
+        2 sendok makan KECAP MANIS BANGO
         \n
-        1 carrot, grated
+        1 sendok teh garam
         \n
-        salt and ground black pepper to taste
+        1 1/2 sendok makan bawang goreng untuk taburan
         \n\n
-    <b>Directions</b>
+    <b>Cara Memasak</b>
     \n
-    1. Mix soy sauce, sesame oil, ginger, and garlic in a bowl until marinade is smooth; pour into a resealable plastic bag. Add pork, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, 1 hour to overnight
-        \n 2. Heat vegetable oil in a wok or large skillet over medium heat. Add cabbage and carrot; cook and stir for 1 to 2 minutes. Push cabbage mixture aside and add pork with marinade to middle of the skillet. Cook and stir until pork is cooked through, 3 to 4 minutes. Draw cabbage into the center of the skillet; cook and stir for 1 to 2 minutes. Season with salt and pepper.
+    1. Panaskan minyak. Tumis bumbu tumbuk kasar sampai harum. Sisihkan di pinggir wajan. Masukkan telur. Aduk sampai berbutir.
+        \n 2. Tambahkan  ayam, udang, bakso. Aduk rata. Tambahkan nasi putih. Aduk- aduk. Masukkan KECAP MANIS BANGO, garam, dan gula pasir. Aduk sampai matang.
+        \n 3. Masukkan daun bawang. Aduk rata. Sajikan bersama telur ceplok dan taburan bawang merah goreng.
+
     </string>
-    <string name="grilled_shrimp_name">Honey Grilled Shrimp</string>
-    <string name="grilled_shrimp_description">Easy and delicious! Onions, peppers, and mushrooms are perfect when alternated with shrimp on the skewers. Just cut into bite-sized pieces and add them to the marinade with the shrimp. Serve with rice and a salad</string>
-    <string name="grilled_shrimp_details"><b>Ingredients</b>
-\n1/2 teaspoon garlic powder
-\n1/4 tablespoon ground black pepper
-\n1/3 cup Worcestershire sauce
-\n2 tablespoons dry white wine
-\n2 tablespoons Italian-style salad dressing
-\n1 pound large shrimp, peeled and deveined with tails attached
-\n1/4 cup honey
-\n1/4 cup butter, melted
-\n2 tablespoons Worcestershire sauce skewers
-    \n\n<b>Directions</b>
-\n1. In a large bowl, mix together garlic powder, black pepper, 1/3 cup Worcestershire sauce, wine, and salad dressing; add shrimp, and toss to coat. Cover, and marinate in the refrigerator for 1 hour.
-\n2. Preheat grill for high heat. Thread shrimp onto skewers, piercing once near the tail and once near the head. Discard marinade.
-\n3. In a small bowl, stir together honey, melted butter, and remaining 2 tablespoons Worcestershire sauce. Set aside for basting.
-\n4. Lightly oil grill grate. Grill shrimp for 2 to 3 minutes per side, or until opaque. Baste occasionally with the honey-butter sauce while grilling.</string>
-    <string name="sirloin_tips_name">Sirloin Tips and Mushrooms</string>
-    <string name="sirloin_tips_description">Beef sirloin cubes browned with garlic then simmered in tomato sauce and red wine until tender. Great over buttered noodles</string>
-    <string name="sirloin_tips_details"><b>Ingredients</b>
-\n3 tablespoons olive oil
-\n3 cloves garlic, minced
-\n1 1/2 pounds beef sirloin
-\n1 (16 ounce) can mushrooms, with liquid
-\n1 (8 ounce) can tomato sauce
-\nSalt to taste
-\nFreshly ground pepper, to taste
-\n3/4 cup red wine
-    \n\n<b>Directions</b>
-\n1. Cut beef into cubes. In a large skillet over medium/high heat, heat the olive oil and brown beef cubes with the garlic.
-\n2. Add mushrooms with liquid, tomato sauce, salt, pepper and red wine. Cook for 30 minutes or until beef cubes are tender. Add a little more wine while cooking if desired.
+    <string name="semur_ayam_name">Semur Ayam</string>
+    <string name="semur_ayam_description">Semur Ayam Saus Tiram Jamur Kancing ini adalah variasi gurih dari resep semur khas Nusantara</string>
+    <string name="semur_ayam_details"><b>Bahan</b>
+    \n
+        500 g paha ayam, potong menjadi 4 bagian
+    \n
+        1 buah jeruk nipis, ambil airnya
+    \n
+        6 butir bawang merah, iris tipis
+    \n
+        4 siung bawang putih, iris tipis
+    \n
+        4 butir kemiri, sangrai, haluskan
+    \n
+        1 kaleng jamur kancing, tiriskan
+    \n
+        6 sdm Kecap Manis Bango
+    \n
+        1/4 cup butter, melted
+    \n
+        5 sdm minyak, untuk menumis
+    \n\n<b>Cara Masak</b>
+    \n
+        1. Di dalam wadah, lumuri paha ayam dengan air jeruk nipis lalu diamkan 10-15 menit.
+    \n
+        2. Tumis bawang putih dan bawang merah hingga layu. Tambahkan kemiri,  daun salam, dan jahei, tumis hingga harum.
+    \n
+        3.Masukkan ayam, masak hingga berubah warna dan tidak berair.
+    \n
+        4.Tambahkan tomat, cengkih, pala, kecap manis, saus tiram, garam dan gula merah.
+    \n
+        5.Tuangkan air, aduk rata. Didihkan. Setelah mendidih, kecilkan api. Lanjutkan memasak hingga bumbu meresap dan kuah mengental.
     </string>
-    <string name="squash_casserole_name">Low Carb Yellow Squash Casserole</string>
-    <string name="squash_casserole_description">This recipe was created to use up a large amount of squash we were given. We modified an existing recipe, swapping almonds for crackers and whole cream for milk. It satisfies my husband\'s diet and tastes great</string>
-    <string name="squash_casserole_details"><b>Ingredients</b>
-\n1 tablespoon olive oil
-\n1 teaspoon butter
-\n1 small onion, chopped
-\n2 cloves garlic, minced
-\n4 cups peeled and cubed yellow squash
-\n1 teaspoon kosher salt
-\n1/2 teaspoon freshly ground black pepper
-\n1/3 cup finely chopped raw almonds
-\n1 cup shredded Colby-Monterey Jack cheese, divided
-\n1/2 cup heavy whipping cream
-\n2 eggs
-\n1/3 cup coarsely chopped roasted, salted almonds
-\n\n<b>Directions</b>
-\n1. Preheat oven to 400 degrees F (200 degrees C).
-\n2. Heat olive oil and butter in a skillet over medium-high heat; cook and stir onion and garlic in the hot oil-butter mixture until softened, about 3 minutes. Add squash, salt, and pepper; stir to combine. Cover skillet and cook, stirring occasionally, until squash is softened, about 5 minutes. Transfer squash mixture to a large bowl.
-\n3. Mix raw almonds and 1/2 cup Colby-Monterey Jack cheese together in a bowl; stir into squash mixture. Whisk cream and eggs together in a measuring cup or small bowl; stir into squash mixture. Pour squash mixture into a 9x13-inch casserole dish; top with remaining Colby-Monterey Jack cheese and roasted almonds.
-</string>
-    <string name="slow_casserole_name">White Chicken Enchilada Slow-Cooker Casserole</string>
-    <string name="slow_casserole_description">An easy, creamy chicken enchilada casserole. Slow cooking gently melds together the flavors of chicken thigh meat, cream of chicken soup, sour cream, and green chiles</string>
-    <string name="slow_casserole_details"><b>Ingredients</b>
-\n15 boneless, skinless chicken thighs or breasts
-\n1 (26 ounce) can condensed cream of chicken soup
-\n2 cloves garlic, chopped (optional)
-\n1 (16 ounce) container sour cream
-\n1 (7 ounce) can diced green chile peppers
-\n15 flour tortillas
-\n3½ cups shredded Monterey Jack cheese
-\n1 (10 ounce) can sliced black olives (optional)
-\nChives for garnish (optional)
-\nBlack pepper to taste
-    \n\n<b>Directions</b>
-\n1. Place chicken in a pot, cover with water, and bring to a boil over high heat. Continue to boil until the chicken is done, about 10 minutes. Drain, allow chicken to cool, and cut into small pieces.
-\n2. Place chicken pieces in a large bowl. Stir in soup, garlic, sour cream, and green chiles.
-\n3. Spray the inside of slow cooker lightly with non-stick cooking spray.
-\n4. Tear tortillas into pieces, and arrange half of the pieces in one overlapping layer across the bottom of the slow cooker. Arrange half of the chicken, half of the soup, and half of the cheese on top. Repeat with remaining tortillas, chicken, soup, and cheese. Top with black olives.
-\n5. Cook on Low setting for 3 to 4 hours. Top with chives.</string>
+    <string name="orek_tempe_name">Orek Tempe</string>
+    <string name="orek_tempe_description">Orek tempe adalah makanan tradisional yang mudah dibuat di rumah. </string>
+    <string name="orek_tempe_details"><b>Bahan</b>
+    \n300 g tempe, potong dadu 2cm, goreng hingga setengah matang
+    \n3 siung bawang putih, iris halus
+    \n3 sdm Bango Kecap Manis Pedas
+    \n2 lembar daun salam
+    \n2 cm lengkuas
+    \n2 sdt Royco Kaldu Ayam
+    \n½ sdt gula pasir
+    \n½ sdt garam
+    \n200 ml air
+    \n3 sdm minyak, untuk menumis
+    \n\n<b>Cara Masak</b>
+    \n1. Panaskan minyak, tumis bawang putih, lengkuas, dan daun salam hingga harum.
+    \n2. Masukkan tempe, Royco Kaldu Ayam, Bango Kecap Manis Pedas, dan air. Aduk rata.
+    \n3. Masak hingga bumbu meresap dan air mengering.
+    \n4. Angkat dan sajikan.
+    </string>
+    <string name="semur_bandeng_name">Semur Bandeng</string>
+    <string name="semur_bandeng_description">Bagi yang suka ikan bandeng, Semur Bandeng Tauco ini sudah pasti jadi santapan istimewa.</string>
+    <string name="semur_bandeng_details"><b>Bahan</b>
+    \n2 ekor ikan bandeng (@350 gram)
+    \nMinyak untuk menggoreng
+    \n450 ml air
+    \n5 sendok makan Kecap Manis Bango
+    \n4 sendok makan tauco, gerus kasar
+    \n2 buah cabe merah, iris serong kasar
+    \n2 buah cabe hijau, iris serong kasar
+    \n1 batang daun bawang, iris serong kasar
+\n\n<b>Cara Masak</b>
+    \n1. Siangi bandeng hingga bersih, potong masing-masing menjadi 3 bagian. Lumuri sedikit garam. Diamkan selama 10 menit, tiriskan.
+    \n2. Goreng bandeng dalam minyak panas hingga matang dan kekuningan. Angkat dan sisihkan.
+    \n3. Panaskan 2 sendok makan minyak goreng, tumis bumbu halus hingga harum. Tuangkan air dan Kecap Bango. Didihkan.
+    \n4. Masukkan tauco, cabe merah, cabe hijau, daun bawang, dan bandeng goreng. Didihkan kembali, angkat. Sajikan.
+    </string>
+    <string name="udang_saos_name">Udang Saos</string>
+    <string name="udang_saos_description">Kelezatan udang ini sunguh benar-benar nikmat.</string>
+    <string name="udang_saos_details"><b>Bahan</b>
+    \n200 gram udang kupas, cincang kasar
+    \n1 batang daun bawang, iris halus
+    \n1/4 buah bawang bombay, cincang halus
+    \n1 butir telur ayam
+    \n1 sendok makan tepung sagu
+    \n1/2 sendok teh garam
+    \n1/4 sendok teh merica bubuk
+    \nMinyak goreng seperlunya
+    \n\n<b>Cara Masak</b>
+    \n1. Campurkan udang, daun bawang, bawang bombay, telur, tepung sagu, garam, dan merica bubuk. Aduk sampai rata.
+    \n2. Panaskan minyak pada penggoreng datar. Tuang dua sendok makan campuran udang dengan diameter 5 cm. Masak sampai matang. Angkat dan dinginkan.
+    \n3. Saus: rebus air, bawang putih, cabai merah keriting, dan daun jeruk sampai mendidih. Masukkan gula merah. Masak sampai gula larut dan mengental. Tambahkan saus tiram, kecap manis Bango dan cuka. Aduk rata.
+    \n4. Campurkan udang goreng bersama sausnya.</string>
     <string name="recipe_image_desc">recipe image</string>
 </resources>

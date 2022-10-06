@@ -44,15 +44,15 @@ public class HomeworkActivity extends AppCompatActivity {
     private void prepareRecipeList() {
         recipeList = new ArrayList<>();
         RecipeData data;
-        data = new RecipeData(getString(R.string.moo_shu_name), getString(R.string.moo_shu_description), R.drawable.moo_shu_img, getString(R.string.moo_shu_details));
+        data = new RecipeData(getString(R.string.nasi_goreng), getString(R.string.nasi_goreng_description), R.drawable.nasigoreng, getString(R.string.nasi_goreng_details));
         recipeList.add(data);
-        data = new RecipeData(getString(R.string.grilled_shrimp_name), getString(R.string.grilled_shrimp_description), R.drawable.grilled_shrimp_img, getString(R.string.grilled_shrimp_details));
+        data = new RecipeData(getString(R.string.semur_ayam_name), getString(R.string.semur_ayam_description), R.drawable.semurayam, getString(R.string.semur_ayam_details));
         recipeList.add(data);
-        data = new RecipeData(getString(R.string.sirloin_tips_name), getString(R.string.sirloin_tips_description), R.drawable.sirloin_tips_img, getString(R.string.sirloin_tips_details));
+        data = new RecipeData(getString(R.string.orek_tempe_name), getString(R.string.orek_tempe_description), R.drawable.orektempe, getString(R.string.orek_tempe_details));
         recipeList.add(data);
-        data = new RecipeData(getString(R.string.squash_casserole_name), getString(R.string.squash_casserole_description), R.drawable.squash_casserole_img, getString(R.string.squash_casserole_details));
+        data = new RecipeData(getString(R.string.semur_bandeng_name), getString(R.string.semur_bandeng_description), R.drawable.semurbandeng, getString(R.string.semur_bandeng_details));
         recipeList.add(data);
-        data = new RecipeData(getString(R.string.slow_casserole_name), getString(R.string.slow_casserole_description), R.drawable.slow_casserole_img, getString(R.string.slow_casserole_details));
+        data = new RecipeData(getString(R.string.udang_saos_name), getString(R.string.udang_saos_description), R.drawable.udangsaos, getString(R.string.udang_saos_details));
         recipeList.add(data);
 
     }
