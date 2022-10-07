@@ -6,4 +6,4 @@ Melakukan praktikum Recycler View pada Android Studio.
 
 Berikut hasil praktikum dari android recyclerview :
 
-![Screenshot Hasil Program](images/image.png)
+![Screenshot Hasil Program](images/image1.png)
